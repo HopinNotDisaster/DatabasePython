@@ -14,7 +14,7 @@
 # sql = 'create database stumanage charset=utf8;'
 # sql = 'select * from my_big_table'
 # cursor.execute(sql)
-#
+
 # datas = cursor.fetchall()
 # print(cursor)
 # for data in datas:
